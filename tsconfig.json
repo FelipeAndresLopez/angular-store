@@ -29,6 +29,9 @@
       "@products/*": [
         "./src/app/domains/products/*",
       ],
+      "@info/*": [
+        "./src/app/domains/info/*",
+      ],
     }
   },
   "angularCompilerOptions": {
